@@ -21,10 +21,10 @@ keyword:
  - identity
  - authentication
 venue:
-  group: SETTLE
-  type: ""
-  mail: settle@ietf.org
-  arch: https://mailarchive.ietf.org/arch/browse/settle/
+#  group: SETTLE
+#  type: ""
+#  mail: settle@ietf.org
+#  arch: https://mailarchive.ietf.org/arch/browse/settle/
   github: "danwing/settle-problem-issues"
   latest: "https://danwing.github.io/settle-problem-issues/draft-wing-settle-problem-issues.html"
 
