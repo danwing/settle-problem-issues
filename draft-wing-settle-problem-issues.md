@@ -3,7 +3,7 @@ title: "SETTLE Problem Space and Deployment Issues"
 abbrev: "SETTLE Problem Space"
 category: info
 
-docname: draft-wing-settle-problem-issues
+docname: draft-wing-settle-problem-issues-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
